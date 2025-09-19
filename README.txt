@@ -17,7 +17,7 @@ _ _ _ _ _ _ _ _ _ _
 
 // ALLIES: [ // "ND_Rhizomes" // ]
 
-// PRINT: "I_am_developing_an_open_sourve_network_for_"
+// PRINT: "I_am_developing_an_open_source_network_for_"
 ~ [ // "ALT_" // ]
 ~ [ // "NEURO_TYPE[S]_" // ]
 
